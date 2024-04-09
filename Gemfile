@@ -60,3 +60,5 @@ group :development do
   # gem "spring"
 end
 
+gem "tailwindcss-rails", "~> 2.4"
+gem 'devise', '~> 4.9', '>= 4.9.3'
